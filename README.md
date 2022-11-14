@@ -1,2 +1,2 @@
 # Supermercado
-Exercício de Programação de Soluções Computacionais
+Exercício Unidade Curricular Programação de Soluções Computacionais
